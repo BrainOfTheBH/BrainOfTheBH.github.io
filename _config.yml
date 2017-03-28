@@ -9,7 +9,7 @@
 title: Welcome to the Brain of the BH!
 email: bountyhunter19019@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Uncovr things you never knew about!
+  Uncover things you never knew about!
   Discover the Brain Of The BH today!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "brainofthebh.github.io" # the base hostname & protocol for your site
