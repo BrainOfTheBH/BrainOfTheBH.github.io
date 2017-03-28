@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Welcome to the Brain of the BH!
+email: bountyhunter19019@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Find out what is going on around you in the world! 
+  Learn about water problems around the world, women empowerment, problems around the world and much more. 
+  Discuss new subjects every week and give your opinions and ideas about that subject openly.
+  Discover the Brain Of The BH!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "brainofthebh.github.io" # the base hostname & protocol for your site
+github_username:  BrainOfTheBH
 
 # Build settings
 markdown: kramdown
