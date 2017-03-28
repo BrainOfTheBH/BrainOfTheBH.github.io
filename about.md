@@ -3,13 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+  Find out what is going on around you in the world! 
+  Learn about water problems around the world, women empowerment, problems around the world and much more. 
+  Discuss new subjects every week and give your opinions and ideas about that subject openly.
+  Watch video's of video game gameplay on my YouTube channel.
